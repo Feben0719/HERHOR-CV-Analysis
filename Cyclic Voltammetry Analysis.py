@@ -176,10 +176,3 @@ plt.ylabel('Current Density (mA/cm^2)',fontsize=12)
 plt.title('HER/HOR pH 11: Additive on Platinum Electrode')
 plt.legend()
 plt.show()
-
-'''
-ph 2 = 1.71
-ph 3 = 2.35
-ph 5 = 2.80
-ph 7 = 6.19
-'''
