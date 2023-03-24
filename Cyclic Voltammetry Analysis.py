@@ -98,7 +98,7 @@ for item in AddI_list:
 #Following code will correct for RHE and current density
 
 xb = np.subtract(xb, P115AgCl)
-yb = np.multiply(yb, CD) - 1.48
+yb = np.multiply(yb, CD) 
 
 xa = np.subtract(xa, P11AgCl)
 ya = np.multiply(ya, CD)
